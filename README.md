@@ -1,7 +1,5 @@
-# test_project
-
-A new Flutter project.
-
+# Flutter UI challenge
+This repository contains a very simple project in the sense that it does not perform any actions per se. The main point of this was to get to know the different available widgets and how they can be used/modified. The end goal can be seen here -> https://dribbble.com/shots/14139155-Point-of-Sale-System-Design/attachments/5763503?mode=media 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
